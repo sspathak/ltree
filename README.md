@@ -7,7 +7,7 @@ A pure Zsh Oh My Zsh plugin that works like `tree`, but truncates large director
 1. Clone this repository into your Oh My Zsh custom plugins directory:
 
    ```bash
-   git clone https://github.com/sspathak/oh-my-zsh-ltree \
+   git clone https://github.com/sspathak/ltree \
      "${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/ltree"
    ```
 
